@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.env
+*.log
+*.sqlite3
+*.h5
+*.pt
+*.pkl
+*.db
+docker-compose.override.yml
